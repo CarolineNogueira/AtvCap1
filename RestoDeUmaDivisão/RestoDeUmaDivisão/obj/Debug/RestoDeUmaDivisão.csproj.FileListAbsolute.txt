@@ -1,0 +1,10 @@
+C:\Users\carol\source\repos\RestoDeUmaDivisão\RestoDeUmaDivisão\bin\Debug\RestoDeUmaDivisão.exe.config
+C:\Users\carol\source\repos\RestoDeUmaDivisão\RestoDeUmaDivisão\bin\Debug\RestoDeUmaDivisão.exe
+C:\Users\carol\source\repos\RestoDeUmaDivisão\RestoDeUmaDivisão\bin\Debug\RestoDeUmaDivisão.pdb
+C:\Users\carol\source\repos\RestoDeUmaDivisão\RestoDeUmaDivisão\obj\Debug\RestoDeUmaDivisão.csproj.AssemblyReference.cache
+C:\Users\carol\source\repos\RestoDeUmaDivisão\RestoDeUmaDivisão\obj\Debug\RestoDeUmaDivisão.frmRestoDeDivisao.resources
+C:\Users\carol\source\repos\RestoDeUmaDivisão\RestoDeUmaDivisão\obj\Debug\RestoDeUmaDivisão.Properties.Resources.resources
+C:\Users\carol\source\repos\RestoDeUmaDivisão\RestoDeUmaDivisão\obj\Debug\RestoDeUmaDivisão.csproj.GenerateResource.cache
+C:\Users\carol\source\repos\RestoDeUmaDivisão\RestoDeUmaDivisão\obj\Debug\RestoDeUmaDivisão.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\RestoDeUmaDivisão\RestoDeUmaDivisão\obj\Debug\RestoDeUmaDivisão.exe
+C:\Users\carol\source\repos\RestoDeUmaDivisão\RestoDeUmaDivisão\obj\Debug\RestoDeUmaDivisão.pdb
